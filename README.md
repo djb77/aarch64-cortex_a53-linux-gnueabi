@@ -1,13 +1,13 @@
 # aarch64-cortex_a53-linux-gnueabi
 
-GNU GCC 6.4.0 Toolchain
+GNU GCC 6.4.1 Toolchain
 
 Built with crosstool-ng-1.23.0-358-gc996bd0
 
 ## Components used
 
 - linux-4.16.2
-- gcc-6.4.0
+- gcc-6.4.1_20180414
 - m4-1.4.18
 - autoconf-2.69
 - automake-1.16.1

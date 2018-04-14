@@ -1,6 +1,6 @@
 python
 import sys
-sys.path.insert(0, '/home/djb77/android/toolchains/aarch64-cortex_a53-linux-gnueabi/share/gcc-6.4.0/python')
+sys.path.insert(0, '/home/djb77/android/toolchains/aarch64-cortex_a53-linux-gnueabi/share/gcc-6.4.1/python')
 from libstdcxx.v6.printers import register_libstdcxx_printers
 register_libstdcxx_printers (None)
 end

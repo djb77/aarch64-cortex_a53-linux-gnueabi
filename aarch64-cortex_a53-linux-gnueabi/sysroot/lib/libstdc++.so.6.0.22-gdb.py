@@ -19,7 +19,7 @@ import gdb
 import os
 import os.path
 
-pythondir = '/home/djb77/android/toolchains/aarch64-cortex_a53-linux-gnueabi/share/gcc-6.4.0/python'
+pythondir = '/home/djb77/android/toolchains/aarch64-cortex_a53-linux-gnueabi/share/gcc-6.4.1/python'
 libdir = '/home/djb77/android/toolchains/aarch64-cortex_a53-linux-gnueabi/aarch64-cortex_a53-linux-gnueabi/lib/../lib64'
 
 # This file might be loaded when there is no current objfile.  This
