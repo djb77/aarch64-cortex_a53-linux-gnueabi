@@ -6,7 +6,7 @@ Built with crosstool-ng-1.23.0-358-gc996bd0
 
 ## Components used
 
-- linux-4.16.4
+- linux-4.16.5
 - gcc-6.4.1_20180414
 - m4-1.4.18
 - autoconf-2.69
