@@ -4,7 +4,7 @@
 ;;; Don't parse this file wihout knowing GCC gengtype internals.
 ;;; This file should be parsed by the same gengtype which wrote it.
 
-(!version  "6.4.1 20180414")
+(!version  "6.4.1 20180430")
 (!srcdir  "/home/djb77/android/crosstool-ng/.build/aarch64-cortex_a53-linux-gnueabi/src/gcc/gcc")
 (!languages 10 ada c cp fortran go java jit lto objc objcp)
 (!fileslist 201
@@ -17304,14 +17304,14 @@
   nil 0 nil nil )
  
  (!type user_struct 995 nil  gc_unused "hash_table<polymorphic_call_target_hasher>"
-  (!srcfileloc  "ipa-devirt.c" 2728)
+  (!srcfileloc  "ipa-devirt.c" 2735)
   (!fields 1 
    (!pair  "polymorphic_call_target_hasher"
     (!type struct 996 nil  gc_unused "polymorphic_call_target_hasher"
-     (!srcfileloc  "ipa-devirt.c" 2728)
+     (!srcfileloc  "ipa-devirt.c" 2735)
      (!fields 0 )
      nil 1023 nil nil )
-    (!srcfileloc  "ipa-devirt.c" 2728)
+    (!srcfileloc  "ipa-devirt.c" 2735)
     nil )
   )
  )
@@ -25801,15 +25801,15 @@
   nil )
  (!pair  "polymorphic_call_target_hash_type"
   (!type already_seen 995)
-  (!srcfileloc  "ipa-devirt.c" 2729)
+  (!srcfileloc  "ipa-devirt.c" 2736)
   nil )
  (!pair  "polymorphic_call_target_hasher"
   (!type already_seen 996)
-  (!srcfileloc  "ipa-devirt.c" 2728)
+  (!srcfileloc  "ipa-devirt.c" 2735)
   nil )
  (!pair  "hash_table<polymorphic_call_target_hasher>"
   (!type already_seen 995)
-  (!srcfileloc  "ipa-devirt.c" 2728)
+  (!srcfileloc  "ipa-devirt.c" 2735)
   nil )
  (!pair  "vec<odr_type,va_gc>"
   (!type already_seen 998)
