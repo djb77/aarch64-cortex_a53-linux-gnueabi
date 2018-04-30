@@ -904,7 +904,7 @@
 /* Define to 1 if we found a declaration for 'getopt', otherwise define to 0.
    */
 #ifndef USED_FOR_TARGET
-#define HAVE_DECL_GETOPT 0
+#define HAVE_DECL_GETOPT 1
 #endif
 
 
@@ -1832,7 +1832,7 @@
 
 /* Define to 1 if you have the <unordered_map> header file. */
 #ifndef USED_FOR_TARGET
-/* #undef HAVE_UNORDERED_MAP */
+#define HAVE_UNORDERED_MAP 1
 #endif
 
 
