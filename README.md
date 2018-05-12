@@ -2,11 +2,11 @@
 
 GNU GCC 6.4.1 Toolchain
 
-Built with crosstool-ng-1.23.0-379-gd7eed4ee
+Built with crosstool-ng-1.23.0-385-g7d3d4d9e
 
 ## Components used
 
-- linux-4.16.6
+- linux-4.16.8
 - gcc-6.4.1_20180430
 - m4-1.4.18
 - autoconf-2.69

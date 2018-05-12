@@ -34,7 +34,7 @@ verbose=
 while test $# -gt 0; do
   case "$1" in
   --vers | --versi | --versio | --version)
-    echo 'ldd (crosstool-NG 1.23.0-379-gd7eed4ee - Linux 4.16.6 by djb77) 2.27'
+    echo 'ldd (crosstool-NG 1.23.0-385-g7d3d4d9e - Linux 4.16.8 by djb77) 2.27'
     printf $"Copyright (C) %s Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
