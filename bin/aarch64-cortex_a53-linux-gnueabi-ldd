@@ -2,7 +2,7 @@
 
 # NON-CONFIGURABLE STUFF!
 export LC_ALL=C
-version="1.23.0-385-g7d3d4d9e"
+version="1.23.0-404-gab3c204a"
 bits="64"
 sed="${SED:-sed}"
 grep="${GREP:-grep}"
