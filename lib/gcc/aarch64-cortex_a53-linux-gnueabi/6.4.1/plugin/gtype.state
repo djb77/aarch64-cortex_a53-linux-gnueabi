@@ -4,7 +4,7 @@
 ;;; Don't parse this file wihout knowing GCC gengtype internals.
 ;;; This file should be parsed by the same gengtype which wrote it.
 
-(!version  "6.4.1 20180516")
+(!version  "6.4.1 20180530")
 (!srcdir  "/home/djb77/android/crosstool-ng/.build/aarch64-cortex_a53-linux-gnueabi/src/gcc/gcc")
 (!languages 10 ada c cp fortran go java jit lto objc objcp)
 (!fileslist 201
@@ -14824,14 +14824,14 @@
    (!type already_seen 743)
   )
   gc_pointed_to "hash_table<module_hasher>"
-  (!srcfileloc  "fortran/trans-decl.c" 4542)
+  (!srcfileloc  "fortran/trans-decl.c" 4544)
   (!fields 1 
    (!pair  "module_hasher"
     (!type struct 745 nil  gc_used "module_hasher"
-     (!srcfileloc  "fortran/trans-decl.c" 4542)
+     (!srcfileloc  "fortran/trans-decl.c" 4544)
      (!fields 0 )
      nil 8 nil nil )
-    (!srcfileloc  "fortran/trans-decl.c" 4542)
+    (!srcfileloc  "fortran/trans-decl.c" 4544)
     nil )
   )
  )
@@ -25263,11 +25263,11 @@
   nil )
  (!pair  "module_hasher"
   (!type already_seen 745)
-  (!srcfileloc  "fortran/trans-decl.c" 4542)
+  (!srcfileloc  "fortran/trans-decl.c" 4544)
   nil )
  (!pair  "hash_table<module_hasher>"
   (!type already_seen 743)
-  (!srcfileloc  "fortran/trans-decl.c" 4542)
+  (!srcfileloc  "fortran/trans-decl.c" 4544)
   nil )
  (!pair  "constexpr_call_hasher"
   (!type already_seen 750)
@@ -28584,7 +28584,7 @@
   (!type array 1809 nil  gc_used "2" 
    (!type already_seen 5)
   )
-  (!srcfileloc  "fortran/trans-stmt.c" 2571)
+  (!srcfileloc  "fortran/trans-stmt.c" 2572)
   nil )
  (!pair  "dt_parm"
   (!type already_seen 5)
@@ -28616,7 +28616,7 @@
   nil )
  (!pair  "module_htab"
   (!type already_seen 744)
-  (!srcfileloc  "fortran/trans-decl.c" 4542)
+  (!srcfileloc  "fortran/trans-decl.c" 4544)
   nil )
  (!pair  "saved_local_decls"
   (!type already_seen 5)
