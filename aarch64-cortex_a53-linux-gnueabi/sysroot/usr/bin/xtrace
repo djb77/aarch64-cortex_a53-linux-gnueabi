@@ -60,7 +60,7 @@ short options.
 }
 
 do_version() {
-  echo 'xtrace (crosstool-NG 1.23.0.418-d590 - Linux 4.17.9 by djb77) 2.27'
+  echo 'xtrace (crosstool-NG 1.23.0.418-d590 - Linux 4.17.11 by djb77) 2.27'
   printf $"Copyright (C) %s Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
